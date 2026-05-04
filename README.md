@@ -3,7 +3,7 @@
   # 🛠️ Hi, I'm Zahid — I fix things (mostly).
 
   <p align="center">
-    <strong>Senior Manager by day | Android experimenter by night | Professional "Panga" taker.</strong>
+    <strong>Engineering Professional by day | Android experimenter by night | Professional "Panga" taker.</strong>
   </p>
 
   <!-- Visitor Counter -->
