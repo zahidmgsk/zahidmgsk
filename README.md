@@ -2,7 +2,7 @@
 
   # Hi there, I'm Zahid! 👋
 
-  <p><strong>Senior Manager | Engineering Professional | Tech Enthusiast</strong></p>
+  <p><strong> Engineering Professional | Tech Enthusiast</strong></p>
 
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=zahidmgsk&label=Profile%20Views&color=0e75b6&style=flat-square" alt="zahidmgsk" />
