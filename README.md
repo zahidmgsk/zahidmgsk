@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🛠️ Hi, I'm Zahid Ch — I fix things (mostly).
+  # 🛠️ Hi, I'm Zahid — I fix things (mostly).
 
   <p align="center">
     <strong>Senior Manager by day | Android experimenter by night | Professional "Panga" taker.</strong>
@@ -16,25 +16,23 @@
 
   <br />
 
-  ### 📝 Current Status:
-  - 🏗️ Managing plants (the industrial kind, not the ones you water).
-  - 📱 Trying not to brick my Pixel phone with the latest beta.
-  - ☕ Fueling my brain with Chai to debug things I created myself.
-  - ⚠️ **Warning:** My code is like my motorcycle — fast, loud, and sometimes I'm not sure how it's still running.
+  ### 📝 Current Status
+  🏗️ Managing industrial plants and pharmaceutical engineering <br>
+  📱 Testing Android betas and trying not to brick my Pixel <br>
+  ☕ Converting Chai into code and maintenance schedules <br>
+  ⚠️ My code is like my motorcycle: fast, loud, and slightly mysterious
 
   <hr />
+ 
+  ### 📞 Get In Touch
+  Industrial engineering help? Reach out! <br>
+  Heavy bikes or Android bootloops? Let's talk. <br><br>
+  
+  <a href="https://t.me/zahidmgsk">
+    <img src="https://img.shields.io/badge/Telegram-Say%20Hi!-blue?style=for-the-badge&logo=telegram" />
+  </a>
 
-  ### 📞 Ping me if:
-  - You need help with industrial engineering.
-  - You want to talk about heavy bikes in Karachi.
-  - Your phone is stuck in a bootloop (I've been there).
-
-  <p>
-    <a href="https://t.me/zahidmgsk">
-      <img src="https://img.shields.io/badge/Telegram-Say%20Hi!-blue?style=for-the-badge&logo=telegram" />
-    </a>
-  </p>
-
-  <sub>*Disclaimer: Any code I push at 3 AM is legally not my responsibility.*</sub>
+  <br><br>
+  <sub>*Disclaimer: Any code pushed at 3 AM is legally not my responsibility.*</sub>
 
 </div>
