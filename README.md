@@ -16,7 +16,7 @@
 
   <!-- About Section -->
   <p align="center">
-    Expertise in pharmaceutical engineering, plant maintenance, and Android development. <br />
+    Expertise in engineering, plant maintenance, and Android development. <br />
     Exploring experimental builds and scalable industrial solutions.
   </p>
 
