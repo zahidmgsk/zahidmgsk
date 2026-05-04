@@ -22,19 +22,6 @@
 
   <hr />
 
-  ### 📊 GitHub Statistics
-
-  <a href="https://github.com/zahidmgsk">
-    <img src="https://github-readme-stats.vercel.app/api?username=zahidmgsk&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Zahid's Stats" />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/zahidmgsk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidmgsk&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-
-  <hr />
 
   ### 🤝 Connect with Me
 
