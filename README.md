@@ -17,7 +17,7 @@
   <br />
 
   ### 📝 Current Status
-  🏗️ Managing industrial plants and pharmaceutical engineering <br>
+  🏗️ Managing industrial plants not the Jungle ones <br>
   📱 Testing Android betas and trying not to brick my Pixel <br>
   ☕ Converting Chai into code and maintenance schedules <br>
   ⚠️ My code is like my motorcycle: fast, loud, and slightly mysterious
